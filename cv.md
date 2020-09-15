@@ -12,4 +12,4 @@ const func = (num) => {
 
 ```
 _RSschool, tutorial_
-_English: B1_
+_English: B1, study English from University_
