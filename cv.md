@@ -1,6 +1,6 @@
 **Denis Lysenko**
 _Email: denislysenko0001@gmail.com_
-_Phone number: 80336897700 _
+*Phone number: 80336897700*
 _JS, HTML, CSS, Git_
 ```
 const func = (num) => {  
