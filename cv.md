@@ -4,10 +4,14 @@ _Email: denislysenko0001@gmail.com_
 _JS, HTML, CSS, Git_
 ```
 const func = (num) => {  
-  if (num > 0) {  
-    return num - 1;  
+
+  if (num > 0) {
+  
+    return num - 1; 
+    
   }
-  return num + 1;  
+  return num + 1;
+  
 };  
 func(100);
 ```
