@@ -15,5 +15,5 @@ const func = (num) => {
 };  
 func(100);
 ```
-_RSschool, tutorial_
+_RSschool, tutorial, internet_
 _English: B1, study English from University_
