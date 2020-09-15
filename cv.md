@@ -9,7 +9,7 @@ const func = (num) => {
   }
   return num + 1;  
 };  
-
+func(100);
 ```
 _RSschool, tutorial_
 _English: B1, study English from University_
